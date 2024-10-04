@@ -7,10 +7,6 @@ Um projeto simples de catálogo de filmes que utiliza listas encadeadas para ger
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Executar o Projeto](#como-executar-o-projeto)
-- [Estrutura de Dados](#estrutura-de-dados)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Descrição do Projeto
 
