@@ -26,3 +26,6 @@ O Catálogo de Filmes permite ao usuário adicionar, remover e listar filmes de 
 - Estruturas de Dados: Listas Encadeadas
 - Compilador: GCC (ou outro compatível)
 
+## Vídeo Explicativo
+
+[Assista ao vídeo aqui](https://youtu.be/p0PIIBRqj8E?si=vbFNDvJ6dbWUYR55)
