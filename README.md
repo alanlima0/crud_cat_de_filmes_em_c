@@ -30,9 +30,3 @@ O Catálogo de Filmes permite ao usuário adicionar, remover e listar filmes de 
 - Estruturas de Dados: Listas Encadeadas
 - Compilador: GCC (ou outro compatível)
 
-## Como Executar o Projeto
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/seuusuario/catalogo-de-filmes.git
