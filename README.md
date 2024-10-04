@@ -28,4 +28,4 @@ O Catálogo de Filmes permite ao usuário adicionar, remover e listar filmes de 
 
 ## Vídeo Explicativo
 
-[Assista ao vídeo aqui](https://youtu.be/p0PIIBRqj8E?si=vbFNDvJ6dbWUYR55)
+[Assista ao vídeo aqui](https://youtu.be/p0PllBRqj8E)
